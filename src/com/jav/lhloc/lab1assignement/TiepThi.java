@@ -19,3 +19,4 @@ public class TiepThi extends NhanVien {
         return super.getLuong() + (this.doanhSo * this.hoaHong/100);
     }
 }
+
