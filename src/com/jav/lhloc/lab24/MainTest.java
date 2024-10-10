@@ -27,26 +27,26 @@ public class MainTest {
     }
 }
 /**
- Thread 1: SinhVien{name='Nguyen Van A', id='1'}
- Thread 2: SinhVien{name='Nguyen Van F', id='6'}
- Thread 2: SinhVien{name='Nguyen Van G', id='7'}
- Thread 1: SinhVien{name='Nguyen Van B', id='2'}
- Thread 2: SinhVien{name='Nguyen Van H', id='8'}
- Thread 1: SinhVien{name='Nguyen Van C', id='3'}
- Thread 1: SinhVien{name='Nguyen Van D', id='4'}
- Thread 2: SinhVien{name='Nguyen Van I', id='9'}
- Thread 1: SinhVien{name='Nguyen Van E', id='5'}
- Thread 2: SinhVien{name='Nguyen Van K', id='10'}
+ Thread 1: NhanVien{name='Nguyen Van A', id='1'}
+ Thread 2: NhanVien{name='Nguyen Van F', id='6'}
+ Thread 2: NhanVien{name='Nguyen Van G', id='7'}
+ Thread 1: NhanVien{name='Nguyen Van B', id='2'}
+ Thread 2: NhanVien{name='Nguyen Van H', id='8'}
+ Thread 1: NhanVien{name='Nguyen Van C', id='3'}
+ Thread 1: NhanVien{name='Nguyen Van D', id='4'}
+ Thread 2: NhanVien{name='Nguyen Van I', id='9'}
+ Thread 1: NhanVien{name='Nguyen Van E', id='5'}
+ Thread 2: NhanVien{name='Nguyen Van K', id='10'}
  */
 /**
- Thread 2: SinhVien{name='Nguyen Van F', id='6'}
- Thread 1: SinhVien{name='Nguyen Van A', id='1'}
- Thread 2: SinhVien{name='Nguyen Van G', id='7'}
- Thread 1: SinhVien{name='Nguyen Van B', id='2'}
- Thread 1: SinhVien{name='Nguyen Van C', id='3'}
- Thread 2: SinhVien{name='Nguyen Van H', id='8'}
- Thread 1: SinhVien{name='Nguyen Van D', id='4'}
- Thread 2: SinhVien{name='Nguyen Van I', id='9'}
- Thread 1: SinhVien{name='Nguyen Van E', id='5'}
- Thread 2: SinhVien{name='Nguyen Van K', id='10'}
+ Thread 2: NhanVien{name='Nguyen Van F', id='6'}
+ Thread 1: NhanVien{name='Nguyen Van A', id='1'}
+ Thread 2: NhanVien{name='Nguyen Van G', id='7'}
+ Thread 1: NhanVien{name='Nguyen Van B', id='2'}
+ Thread 1: NhanVien{name='Nguyen Van C', id='3'}
+ Thread 2: NhanVien{name='Nguyen Van H', id='8'}
+ Thread 1: NhanVien{name='Nguyen Van D', id='4'}
+ Thread 2: NhanVien{name='Nguyen Van I', id='9'}
+ Thread 1: NhanVien{name='Nguyen Van E', id='5'}
+ Thread 2: NhanVien{name='Nguyen Van K', id='10'}
  */

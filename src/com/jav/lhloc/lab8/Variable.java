@@ -18,7 +18,7 @@ public class Variable {
 //        variable.updateArray(array);
 //        System.out.println(array[0]);
 
-//        SinhVien sinhVien = new SinhVien();
+//        NhanVien sinhVien = new NhanVien();
 //        sinhVien.setPoint(5.0f);
 //        variable.updateSinhVien(sinhVien);
 //        System.out.println(sinhVien.getPoint());
