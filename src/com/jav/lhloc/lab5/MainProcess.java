@@ -15,7 +15,7 @@ public class MainProcess {
 //        System.out.println("=================");
 //        mainProcess.xuatDanhSachSinhVien(listSinhVien);
 
-//        SinhVien sinhVienDauTien = listSinhVien.get(0);
+//        NhanVien sinhVienDauTien = listSinhVien.get(0);
 //        mainProcess.xuatSinhVienDauTien(sinhVienDauTien);
 //        System.out.println("=================");
 //        mainProcess.xuatDanhSachSinhVienTheoDiem(listSinhVien);
@@ -99,7 +99,7 @@ public class MainProcess {
 
     private void xuatDanhSachSinhVien(ArrayList<SinhVien> listSinhVien) {
         System.out.println("Danh sach sinh vien:");
-//        for (SinhVien sv : listSinhVien) {
+//        for (NhanVien sv : listSinhVien) {
 //            System.out.println(sv.getFullName() + " - " + sv.getPoint());
 //        }
 

@@ -11,7 +11,7 @@ public class SinhVien {
 
     @Override
     public String toString() {
-        return "SinhVien{" +
+        return "NhanVien{" +
                 "name='" + name + '\'' +
                 ", id='" + id + '\'' +
                 '}';
