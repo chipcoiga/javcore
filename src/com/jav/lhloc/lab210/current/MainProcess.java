@@ -5,7 +5,7 @@ import java.util.*;
 public class MainProcess {
 
     public static void main(String[] args) {
-//        ArrayList<HocSinh> hs = nhapDanhDachHocSinh();
+        ArrayList<HocSinh> hs = nhapDanhDachHocSinh();
 //
 //        System.out.println("So luong hoc sinh: " + hs.size());
 //
