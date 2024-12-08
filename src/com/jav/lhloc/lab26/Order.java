@@ -63,8 +63,8 @@ public class Order<T> {//Long, Int, Double, Float, Byte, Short
 //        arrayList.add(10L);
 //        arrayList.add("Hello");
 //
-//        ArrayList<SinhVien> sinhViens = new ArrayList<>();
-//        sinhViens.add(new SinhVien());
+//        ArrayList<NhanVien> sinhViens = new ArrayList<>();
+//        sinhViens.add(new NhanVien());
     }
 
     public Long getAmount() {
